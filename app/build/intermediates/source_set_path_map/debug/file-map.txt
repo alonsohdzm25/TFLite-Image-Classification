@@ -1,0 +1,44 @@
+org.tensorflow.lite.examples.imageclassification.app-emoji2-1.0.0-0 C:\Users\Alonso\.gradle\caches\transforms-3\02d4958508861c20bb522f843421a6bc\transformed\emoji2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-startup-runtime-1.0.0-1 C:\Users\Alonso\.gradle\caches\transforms-3\043eec7535845c1db4acba4184d24cec\transformed\startup-runtime-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-viewpager2-1.0.0-2 C:\Users\Alonso\.gradle\caches\transforms-3\06e1cba8bfa07177f849cb78c99adacc\transformed\viewpager2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-camera-camera2-1.2.0-alpha02-3 C:\Users\Alonso\.gradle\caches\transforms-3\0b88ab97c61ed6391fa69541d50f29d1\transformed\camera-camera2-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-1.4.2-4 C:\Users\Alonso\.gradle\caches\transforms-3\0e3c12cf804ab3b1ca4f001faa559626\transformed\appcompat-1.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-2.4.2-5 C:\Users\Alonso\.gradle\caches\transforms-3\0ef04d2d429d9eddb27aef02f4433aa1\transformed\navigation-common-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-recyclerview-1.1.0-6 C:\Users\Alonso\.gradle\caches\transforms-3\195e3fa9952d386b904e664401d9cf99\transformed\recyclerview-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-core-1.8.0-7 C:\Users\Alonso\.gradle\caches\transforms-3\2b5d5054c52b63a1e8bcf917b51839ef\transformed\core-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-camera-lifecycle-1.2.0-alpha02-8 C:\Users\Alonso\.gradle\caches\transforms-3\2e460ecee6dcb0a8e9b52f51b134e150\transformed\camera-lifecycle-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-2.3.1-9 C:\Users\Alonso\.gradle\caches\transforms-3\3095cc0874ddf6e8cbd8e05720e7c15d\transformed\lifecycle-viewmodel-2.3.1\res
+org.tensorflow.lite.examples.imageclassification.app-cardview-1.0.0-10 C:\Users\Alonso\.gradle\caches\transforms-3\394899cde46a161716bdfcaf47e0ba29\transformed\cardview-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-ktx-1.4.1-11 C:\Users\Alonso\.gradle\caches\transforms-3\4393a8b9252d97688b89be28006a65c6\transformed\fragment-ktx-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-material-1.6.1-12 C:\Users\Alonso\.gradle\caches\transforms-3\4667c9fdc47b32fb745cd080b5f89af2\transformed\material-1.6.1\res
+org.tensorflow.lite.examples.imageclassification.app-annotation-experimental-1.1.0-13 C:\Users\Alonso\.gradle\caches\transforms-3\4db77b5d89a48d1b8a88fa0d93bbe53e\transformed\annotation-experimental-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-2.4.2-14 C:\Users\Alonso\.gradle\caches\transforms-3\53240bc666eb0a9b8ec8d255580fb7a2\transformed\navigation-runtime-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-ktx-2.4.2-15 C:\Users\Alonso\.gradle\caches\transforms-3\61e05247725ad2917bdb684f867839ed\transformed\navigation-fragment-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-core-ktx-1.8.0-16 C:\Users\Alonso\.gradle\caches\transforms-3\626475aa40ee671aafb5ef5d89655860\transformed\core-ktx-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-slidingpanelayout-1.2.0-17 C:\Users\Alonso\.gradle\caches\transforms-3\6560613563f22f0b24f5a0b6b0b2ba15\transformed\slidingpanelayout-1.2.0\res
+org.tensorflow.lite.examples.imageclassification.app-savedstate-1.1.0-18 C:\Users\Alonso\.gradle\caches\transforms-3\68630991ff6c7cd8afc9a267d12e3242\transformed\savedstate-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-views-helper-1.0.0-19 C:\Users\Alonso\.gradle\caches\transforms-3\7c691659a5aca9bc7fee79940c916695\transformed\emoji2-views-helper-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-ktx-2.4.2-20 C:\Users\Alonso\.gradle\caches\transforms-3\831a20a9a9bb366a2e77dad5736d2542\transformed\navigation-common-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-1.4.1-21 C:\Users\Alonso\.gradle\caches\transforms-3\96cda81489e1dcbdd0481c39e5686ef8\transformed\fragment-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-transition-1.4.1-22 C:\Users\Alonso\.gradle\caches\transforms-3\99c92f69da15dbb49da30f3fbd04b410\transformed\transition-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-runtime-2.4.0-23 C:\Users\Alonso\.gradle\caches\transforms-3\a623953cdbc85431d93a344095803f32\transformed\lifecycle-runtime-2.4.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-2.4.2-24 C:\Users\Alonso\.gradle\caches\transforms-3\a6315602e7d1fbcdfb77276a744b0f7b\transformed\navigation-ui-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-camera-view-1.2.0-alpha02-25 C:\Users\Alonso\.gradle\caches\transforms-3\a82343c5b52c06d3cf0120d2754b0c95\transformed\camera-view-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-drawerlayout-1.1.1-26 C:\Users\Alonso\.gradle\caches\transforms-3\ac1fa21f9c0407da729971e9d037069b\transformed\drawerlayout-1.1.1\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-resources-1.4.2-27 C:\Users\Alonso\.gradle\caches\transforms-3\af326dfec7d2c630c1ae1d2c2d748a1e\transformed\appcompat-resources-1.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-camera-core-1.2.0-alpha02-28 C:\Users\Alonso\.gradle\caches\transforms-3\b2f8751b28cfe06f297eaa286e32872d\transformed\camera-core-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-ktx-2.4.2-29 C:\Users\Alonso\.gradle\caches\transforms-3\bde7fd4dd5a36b003bc1caedc0b8d032\transformed\navigation-runtime-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-ktx-2.4.2-30 C:\Users\Alonso\.gradle\caches\transforms-3\c0a4ce4f7967d676cc015d8041773a06\transformed\navigation-ui-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-process-2.4.0-31 C:\Users\Alonso\.gradle\caches\transforms-3\d1ef1c75dae836e35bebf720ffc596e7\transformed\lifecycle-process-2.4.0\res
+org.tensorflow.lite.examples.imageclassification.app-constraintlayout-2.1.4-32 C:\Users\Alonso\.gradle\caches\transforms-3\d4defe983502944310995c47a438cdc4\transformed\constraintlayout-2.1.4\res
+org.tensorflow.lite.examples.imageclassification.app-coordinatorlayout-1.1.0-33 C:\Users\Alonso\.gradle\caches\transforms-3\eb63c32a80f628f0c4719466c3c13e1c\transformed\coordinatorlayout-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-2.4.2-34 C:\Users\Alonso\.gradle\caches\transforms-3\f7654b20a54452476403334a68f5f414\transformed\navigation-fragment-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-window-1.1.0-alpha02-35 C:\Users\Alonso\.gradle\caches\transforms-3\ff47f6d145ab57c4898eccfde79bdb71\transformed\window-1.1.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-pngs-36 C:\Users\Alonso\Desktop\Android TFLite\image_classification\android\app\build\generated\res\pngs\debug
+org.tensorflow.lite.examples.imageclassification.app-resValues-37 C:\Users\Alonso\Desktop\Android TFLite\image_classification\android\app\build\generated\res\resValues\debug
+org.tensorflow.lite.examples.imageclassification.app-rs-38 C:\Users\Alonso\Desktop\Android TFLite\image_classification\android\app\build\generated\res\rs\debug
+org.tensorflow.lite.examples.imageclassification.app-packageDebugResources-39 C:\Users\Alonso\Desktop\Android TFLite\image_classification\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+org.tensorflow.lite.examples.imageclassification.app-packageDebugResources-40 C:\Users\Alonso\Desktop\Android TFLite\image_classification\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+org.tensorflow.lite.examples.imageclassification.app-merged_res-41 C:\Users\Alonso\Desktop\Android TFLite\image_classification\android\app\build\intermediates\merged_res\debug
+org.tensorflow.lite.examples.imageclassification.app-debug-42 C:\Users\Alonso\Desktop\Android TFLite\image_classification\android\app\src\debug\res
+org.tensorflow.lite.examples.imageclassification.app-main-43 C:\Users\Alonso\Desktop\Android TFLite\image_classification\android\app\src\main\res
